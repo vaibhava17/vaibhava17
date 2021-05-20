@@ -1,4 +1,4 @@
-👋 Hi, I’m PSYCHO AKA Vaibhav
+👋 Hi, I’m Vaibhav AKA PSYCHO
 
 👀 I’m interested in Developing & Designing
 
