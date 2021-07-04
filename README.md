@@ -1,10 +1,10 @@
-👋 Hi, I’m Vaibhav AKA PSYCHO
+👋 Hi, I’m Vaibhav Agarwal
 
 👀 I’m interested in Developing & Designing
 
-🌱 I’m currently learning Flutter
+🌱 I’m currently learning Angular & Node JS
 
-💞️ I’m looking to collaborate on Web Applications
+💞️ I’m looking to collaborate in Web Applications
 
 📫 You can reach me at iamvaibhav.agarwal@gmail.com
 
