@@ -15,3 +15,7 @@
   <li> 📝 &nbsp; Checkout my <a href="https://github.com/VaibhavA17/VaibhavA17/blob/main/Resume.pdf">Resume</a>.</li>
 <li> 🚀 &nbsp; I’m currently learning Full Stack Development.</li>
 </ul>
+
+#### Weekly Deployment
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
