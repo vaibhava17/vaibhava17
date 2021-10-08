@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/vaibhav98a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav98a" height="30" width="40" /></a>
   </samp>
 </p>
-###<h3 align="left">Talking about Personal Stuffs:</h3>
+### Talking about Personal Stuffs:
 - 🛠 &nbsp; At the moment working with React, NodeJS, Firebase, Graphql, Javascript, MongoDB, etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/VaibhavA17).
 - 📫 &nbsp; How to reach me: iamvaibhav.agarwal@gmail.com.
