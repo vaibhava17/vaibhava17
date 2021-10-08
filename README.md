@@ -18,58 +18,10 @@
 
 #### Weekly Deployment
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 132 Contributions in the Year 2021
- > 
-> 📦 337.4 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.76% 
-🌆 Daytime    32 commits     ███████░░░░░░░░░░░░░░░░░░   27.59% 
-🌃 Evening    56 commits     ████████████░░░░░░░░░░░░░   48.28% 
-🌙 Night      19 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       19 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38% 
-Tuesday      13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
-Wednesday    39 commits     ████████░░░░░░░░░░░░░░░░░   33.62% 
-Thursday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.62% 
-Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Saturday     15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
-Sunday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
@@ -85,10 +37,6 @@ SCSS                     1 repo              ███░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/vaibhava17/vaibhava17/main/charts/bar_graph.png) 
 
 
  Last Updated on 08/10/2021
