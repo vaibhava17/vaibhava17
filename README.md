@@ -29,15 +29,15 @@ No Activity Tracked This Week
 **I Mostly Code in CSS** 
 
 ```text
-CSS                      3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-PHP                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-SCSS                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+CSS                      4 repos             ███████████░░░░░░░░░░░░░░   44.44% 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
 
 
- Last Updated on 12/10/2021
+ Last Updated on 13/10/2021
 <!--END_SECTION:waka-->
