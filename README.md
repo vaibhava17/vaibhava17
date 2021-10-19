@@ -11,9 +11,9 @@
 <h3 align="left">Talking about Personal Stuffs:</h3>
 <ul>
   <li> 🛠 &nbsp; At the moment working with React, NodeJS, Firebase, Graphql, Javascript, MongoDB, etc.</li>
-  <li> 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="_https://github.com/VaibhavA17">Github</a>.</li>
+  <li> 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/VaibhavA17">Github</a>.</li>
   <li> 📫 &nbsp; You can reach me <a href="mailto:iamvaibhav.agarwal@gmail.com">here</a>.</li>
-  <li> 📝 &nbsp; Checkout my <a href="_https://github.com/VaibhavA17/VaibhavA17/blob/main/Resume.pdf">Resume</a>.</li>
+  <li> 📝 &nbsp; Checkout my <a href="https://github.com/VaibhavA17/VaibhavA17/blob/main/Resume.pdf">Resume</a>.</li>
   <li> 🚀 &nbsp; I’m currently learning Full Stack Development.</li>
 </ul>
 
