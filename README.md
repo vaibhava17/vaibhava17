@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Agarwal</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=maithrivh&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhava17" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=maithrivh&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhava17" /> 
+[![wakatime](https://wakatime.com/badge/user/cab027d5-8b43-4899-8312-4f5dd5018bc9.svg)](https://wakatime.com/@cab027d5-8b43-4899-8312-4f5dd5018bc9)</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <samp>
