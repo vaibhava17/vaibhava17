@@ -16,6 +16,7 @@
   <li> 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/VaibhavA17">Github</a>.</li>
   <li> 📫 &nbsp; You can reach me <a href="mailto:iamvaibhav.agarwal@gmail.com">here</a>.</li>
   <li> 📝 &nbsp; Checkout my <a href="https://github.com/VaibhavA17/VaibhavA17/blob/main/Resume.pdf">Resume</a>.</li>
+  <li> 💻 &nbsp; WakaTime <a href="https://wakatime.com/@vaibhava17">Profile</a>.</li>
   <li> 🚀 &nbsp; I’m currently learning Full Stack Development.</li>
 </ul>
 
