@@ -15,7 +15,7 @@
   <li> 🛠 &nbsp; At the moment working with React, NodeJS, Bootstrap at <a href="https://www.gunisms.com.au/">Guni</a> as a Frontend Engineer.</li>
 <!--   <li> 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/VaibhavA17">Github</a>.</li> -->
   <li> 📫 &nbsp; You can reach me <a href="mailto:iamvaibhav.agarwal@gmail.com">here</a>.</li>
-  <li> 📝 &nbsp; Checkout my <a href="https://github.com/VaibhavA17/VaibhavA17/blob/main/Resume.pdf">Resume</a>.</li>
+  <li> 📝 &nbsp; My <a href="https://github.com/VaibhavA17/VaibhavA17/blob/main/Resume.pdf">Resume</a>.</li>
   <li> 💻 &nbsp; WakaTime <a href="https://wakatime.com/@vaibhava17">Profile</a>.</li>
   <li> 🚀 &nbsp; I’m currently learning Full Stack Development.</li>
 </ul>
@@ -24,17 +24,14 @@
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a> 
-<!-- <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>  -->
+</a>
 <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a>
- <a href="https://firebase.google.com/" target="_blank"> 
+<a href="https://firebase.google.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a>
- <a href="https://www.w3.org/html/" target="_blank"> 
+<a href="https://www.w3.org/html/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -49,6 +46,27 @@
 <a href="https://reactjs.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a> 
+<a href="https://heroku.com/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> 
+</a>
+<a href="https://git-scm.com/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+</a>
+<a href="https://expressjs.com/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/> 
+</a>
+<a href="https://code.visualstudio.com/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+</a>
+<a href="https://www.php.net/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> 
+</a>
+<a href="https://www.python.org/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
+<a href="https://nodejs.org/en/" target="_blank"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+</a>
 </p>
 
 
