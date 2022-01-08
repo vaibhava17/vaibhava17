@@ -72,8 +72,6 @@
 
 #### Weekly Deployment
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%206%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
