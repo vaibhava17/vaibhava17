@@ -7,17 +7,21 @@
   <samp>
     <a href="https://twitter.com/_vaibhava__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_vaibhava__" height="30" width="40" /></a> . 
     <a href="https://www.linkedin.com/in/vaibhav98a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav98a" height="30" width="40" /></a>
+    <a href="https://dev.to/vaibhava17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaibhava17" height="30" width="40" /></a>
+    <a href="https://codepen.io/vaibhava17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vaibhava17" height="30" width="40" /></a>
   </samp>
 </p>
 
 <h3 align="left">Talking about Personal Stuffs:</h3>
 <ul>
-  <li> 🛠 &nbsp; At the moment working with React, NodeJS, Bootstrap at <a href="https://www.gunisms.com.au/">Guni</a> as a Frontend Engineer.</li>
+  <li> 🛠 &nbsp; At the moment working with Reactjs, Node.js.</li>
 <!--   <li> 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/VaibhavA17">Github</a>.</li> -->
-  <li> 📫 &nbsp; You can reach me <a href="mailto:iamvaibhav.agarwal@gmail.com">here</a>.</li>
-  <li> 📝 &nbsp; My <a href="https://github.com/VaibhavA17/VaibhavA17/blob/main/Resume.pdf">Resume</a>.</li>
-  <li> 💻 &nbsp; WakaTime <a href="https://wakatime.com/@vaibhava17">Profile</a>.</li>
   <li> 🚀 &nbsp; I’m currently learning Full Stack Development.</li>
+  <li> 👯 &nbsp; I’m looking to collaborate on Web Apps.</li>  
+<!--   <li> 📫 &nbsp; You can reach me <a href="mailto:iamvaibhav.agarwal@gmail.com">here</a>.</li> -->
+<!--   <li> 📝 &nbsp; My <a href="https://github.com/VaibhavA17/VaibhavA17/blob/main/Resume.pdf">Resume</a>.</li> -->
+<!--   <li> 💻 &nbsp; WakaTime <a href="https://wakatime.com/@vaibhava17">Profile</a>.</li> -->
+  <li> 💬 &nbsp; Ask me about Web development</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
