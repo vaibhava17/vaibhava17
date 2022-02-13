@@ -3,6 +3,8 @@
 <a href="https://wakatime.com/@cab027d5-8b43-4899-8312-4f5dd5018bc9"><img src="https://wakatime.com/badge/user/cab027d5-8b43-4899-8312-4f5dd5018bc9.svg" alt="Total time coded since Oct 8 2021" /></a>
 </p>
 
+<h3 align="center">💻 &nbsp; <a href="https://vaibhavag.me">me</a></h3>
+
 <h3 align="left">Talking about Personal Stuffs:</h3>
 <ul>
   <li> 🛠 &nbsp; At the moment working with Reactjs, Node.js.</li>
@@ -11,8 +13,7 @@
   <li> 👯 &nbsp; I’m looking to collaborate on Web Apps.</li>  
 <!--   <li> 📫 &nbsp; You can reach me <a href="mailto:iamvaibhav.agarwal@gmail.com">here</a>.</li> -->
 <!--   <li> 📝 &nbsp; My <a href="https://github.com/VaibhavA17/VaibhavA17/blob/main/Resume.pdf">Resume</a>.</li> -->
-  <li> 💬 &nbsp; Ask me about Web development<./li>
-  <li> 💻 &nbsp; <a href="https://vaibhavag.me">me</a>.</li>
+  <li> 💬 &nbsp; Ask me about Web development.</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
