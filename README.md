@@ -11,8 +11,8 @@
   <li> 👯 &nbsp; I’m looking to collaborate on Web Apps.</li>  
 <!--   <li> 📫 &nbsp; You can reach me <a href="mailto:iamvaibhav.agarwal@gmail.com">here</a>.</li> -->
 <!--   <li> 📝 &nbsp; My <a href="https://github.com/VaibhavA17/VaibhavA17/blob/main/Resume.pdf">Resume</a>.</li> -->
-<!--   <li> 💻 &nbsp; WakaTime <a href="https://wakatime.com/@vaibhava17">Profile</a>.</li> -->
-  <li> 💬 &nbsp; Ask me about Web development</li>
+  <li> 💬 &nbsp; Ask me about Web development<./li>
+  <li> 💻 &nbsp; <a href="https://vaibhavag.me">me</a>.</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
