@@ -82,8 +82,7 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 55 mins       █████████████████████████   99.67% 
-SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+No Activity Tracked This Week
 
 ```
 
@@ -100,5 +99,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/04/2022 18:47:06 UTC
+ Last Updated on 30/04/2022 18:44:12 UTC
 <!--END_SECTION:waka-->
