@@ -58,10 +58,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
 </a>
 <a href="https://www.figma.com/" target="_blank"> 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="figma" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
 </a>
 <a href="https://postman.com/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="postman" width="40" height="40"/> 
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="postman" width="40" height="40"/> 
 </a>
 </p>
 <h3 align="left">Find me at:</h3>
