@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Agarwal</h1>
+<h1 align="center">Hi 👋
+<br/>
+ I'm Vaibhav Agarwal</h1>
+ <p align="center">I have been working as a front-end engineer in Guni and contributing to some open-source projects. This year, I have completed my graduation in Computer Science Engineering (B.Tech). Now I'm improving my skills to create beautifully smooth animations and responsive web design with API and error handling as a front-end dev. And I have also been learning to create backend servers for applications.</p>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=maithrivh&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhava17" /> 
 <a href="https://wakatime.com/@cab027d5-8b43-4899-8312-4f5dd5018bc9"><img src="https://wakatime.com/badge/user/cab027d5-8b43-4899-8312-4f5dd5018bc9.svg" alt="Total time coded since Oct 8 2021" /></a>
 </p>
 
 <h3 align="left"><a href="https://vaibhavag.me">vaibhavag.me</a></h3>
 
-<h3 align="left">Talking about Personal Stuffs:</h3>
 <ul>
-  <li> 🛠 &nbsp; At the moment working with MERN Stack.</li>
-<!--   <li> 👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/VaibhavA17">Github</a>.</li> -->
-  <li> 🚀 &nbsp; I’m currently learning Vue.js & Flutter.</li>
-  <li> 👯 &nbsp; I’m looking to collaborate on Open Source Project based on javascript.</li>  
-<!--   <li> 📫 &nbsp; You can reach me <a href="mailto:iamvaibhav.agarwal@gmail.com">here</a>.</li> -->
-<!--   <li> 📝 &nbsp; My <a href="https://github.com/VaibhavA17/VaibhavA17/blob/main/Resume.pdf">Resume</a>.</li> -->
-  <li> 💬 &nbsp; Ask me about Web development.</li>
+  <li> 🛠 &nbsp; Building apps with MERN STACK.</li>
+  <li> 🚀 &nbsp; Learning about Clean code techniques and TDT.</li>
+  <li> 👯 &nbsp; Open to contribute on any project or articles.</li>  
+  <li> 📫 &nbsp; You can reach me <a href="mailto:iamvaibhav.agarwal@gmail.com">here</a>.</li>
+  <li> 📝 &nbsp; My <a href="https://github.com/vaibhava17/vaibhava17/blob/main/resume%20200kb.pdf">Resume</a>.</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
