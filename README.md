@@ -70,7 +70,7 @@ This year, I completed my graduation in Computer Science Engineering (B.Tech). I
 <p align="left">
   <samp>
     <a href="https://twitter.com/_vaibhava__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_vaibhava__" height="30" width="40" /></a> . 
-    <a href="https://www.linkedin.com/in/vaibhav98a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav98a" height="30" width="40" /></a> . 
+    <a href="https://www.linkedin.com/in/vaibhava17/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav98a" height="30" width="40" /></a> . 
     <a href="https://dev.to/vaibhava17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaibhava17" height="30" width="40" /></a> . 
 <!--     <a href="https://codepen.io/vaibhava17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vaibhava17" height="30" width="40" /></a> -->
   </samp>
