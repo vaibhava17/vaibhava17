@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋
 <br/>
  I'm Vaibhav Agarwal</h1>
- <p align="center">I have been working as a front-end engineer in <a href="https://gunisms.com.au">Guni</a> and contributing to some open-source projects.
+ <p align="center">I have been working as a front-end engineer in <a href="https://gunisms.com.au" target="_blank">Guni</a> and contributing to some open-source projects.
 This year, I completed my graduation in Computer Science Engineering (B.Tech). I'm improving my skills to create beautifully smooth animations and responsive front-end web design and learning to develop scalable backend servers for applications. I am also learning the clean code way and TDD way of coding.</p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=maithrivh&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhava17" /> 
 <a href="https://wakatime.com/@cab027d5-8b43-4899-8312-4f5dd5018bc9"><img src="https://wakatime.com/badge/user/cab027d5-8b43-4899-8312-4f5dd5018bc9.svg" alt="Total time coded since Oct 8 2021" /></a>
 </p>
 
-<h3 align="left"><a href="https://vaibhavag.me">vaibhavag.me</a></h3>
+<h3 align="left"><a href="https://vaibhavag.me" target="_blank">vaibhavag.me</a></h3>
 
 <ul>
   <li> 🛠 &nbsp; Building apps with MERN STACK.</li>
   <li> 🚀 &nbsp; Learning about Clean code techniques and TDT.</li>
   <li> 👯 &nbsp; Open to contribute on any project or articles.</li>  
-  <li> 📫 &nbsp; You can reach me <a href="mailto:iamvaibhav.agarwal@gmail.com">here</a>.</li>
-  <li> 📝 &nbsp; My <a href="https://github.com/vaibhava17/vaibhava17/blob/main/resume%20200kb.pdf">Resume</a>.</li>
+  <li> 📫 &nbsp; You can reach me <a href="mailto:iamvaibhav.agarwal@gmail.com" target="_blank">here</a>.</li>
+  <li> 📝 &nbsp; My <a href="https://github.com/vaibhava17/vaibhava17/blob/main/resume%20200kb.pdf" target="_blank">Resume</a>.</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
