@@ -79,4 +79,15 @@ This year, I completed my graduation in Computer Science Engineering (B.Tech). I
 ![Vaibhav's Github Stats](https://github-readme-stats.vercel.app/api?username=vaibhava17&show_icons=true) 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 07 October 2021 - To: 07 October 2022
+
+Total Time: 1,554 hrs 12 mins
+
+JavaScript       1,039 hrs 30 mins>>>>>>>>>>>>>>>>>--------   66.88 %
+CSS              161 hrs 15 mins >>>----------------------   10.38 %
+Other            146 hrs 27 mins >>-----------------------   09.42 %
+```
+
 <!--END_SECTION:waka-->
