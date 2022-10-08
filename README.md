@@ -32,9 +32,9 @@ This year, I completed my graduation in Computer Science Engineering (B.Tech). I
 <a href="https://www.mongodb.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> 
-<!-- <a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> -->
+<a href="https://tailwindcss.com/docs/installation" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+</a>
 <a href="https://reactjs.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a> 
