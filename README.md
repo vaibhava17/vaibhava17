@@ -76,6 +76,8 @@ This year, I completed my graduation in Computer Science Engineering (B.Tech). I
   </samp>
 </p>
 
+[![@vaibhava17's Holopin board](https://holopin.me/vaibhava17)](https://holopin.io/@vaibhava17)
+
 ![Vaibhav's Github Stats](https://github-readme-stats.vercel.app/api?username=vaibhava17&show_icons=true) 
 
 <!--START_SECTION:waka-->
