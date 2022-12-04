@@ -14,7 +14,7 @@ This year, I completed my graduation in Computer Science Engineering (B.Tech). I
   <li> 🛠 &nbsp; Building apps with MERN STACK.</li>
   <li> 🚀 &nbsp; Learning about Clean code techniques and TDT.</li>
   <li> 👯 &nbsp; Open to contribute on any project or articles.</li>  
-  <li> 📫 &nbsp; You can reach me <a href="mailto:iamvaibhav.agarwal@gmail.com" target="_blank">here</a>.</li>
+  <li> 📫 &nbsp; You can reach me <a href="mailto:vaibhav@guni.au" target="_blank">here</a>.</li>
   <li> 📝 &nbsp; My <a href="https://github.com/vaibhava17/vaibhava17/blob/main/resume%20200kb.pdf" target="_blank">Resume</a>.</li>
 </ul>
 
