@@ -8,7 +8,7 @@ This year, I completed my graduation in Computer Science Engineering (B.Tech). I
 <a href="https://wakatime.com/@cab027d5-8b43-4899-8312-4f5dd5018bc9"><img src="https://wakatime.com/badge/user/cab027d5-8b43-4899-8312-4f5dd5018bc9.svg" alt="Total time coded since Oct 8 2021" /></a>
 </p>
 
-<h3 align="left"><a href="https://vaibhava17.github.io" target="_blank">[vaibhavag.me](https://vaibhava17.github.io)</a></h3>
+<h3 align="left"><a href="https://vaibhava17.github.io" target="_blank">vaibhavag.me</a></h3>
 
 <ul>
   <li> 🛠 &nbsp; Building apps with MERN STACK.</li>
