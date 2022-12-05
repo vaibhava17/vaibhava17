@@ -15,65 +15,119 @@ This year, I completed my graduation in Computer Science Engineering (B.Tech). I
   <li> 🚀 &nbsp; Learning about Clean code techniques and TDT.</li>
   <li> 👯 &nbsp; Open to contribute on any project or articles.</li>  
   <li> 📫 &nbsp; You can reach me <a href="mailto:vaibhav@guni.au" target="_blank">here</a>.</li>
-  <li> 📝 &nbsp; My <a href="https://github.com/vaibhava17/vaibhava17/blob/main/resume%20200kb.pdf" target="_blank">Resume</a>.</li>
+  <li> 📝 &nbsp; You can download my <a href="https://github.com/vaibhava17/vaibhava17/blob/main/resume.pdf" target="_blank">resume</a> from here.</li>
 </ul>
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<h3 align="left">Things I'm good at:</h3>
+<p align="left">
+  <samp>
+<!-- nodejs -->
+<a href="https://nodejs.org/en/">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="auto" height="auto"> 
 </a>
-<a href="https://firebase.google.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+<!-- react -->
+<a href="https://reactjs.org/">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width="auto" height="auto">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://www.mongodb.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-<a href="https://tailwindcss.com/docs/installation" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+<!-- mongodb -->
+<a href="https://www.mongodb.com/">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="auto" height="auto">
 </a>
-<a href="https://reactjs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-<a href="https://heroku.com/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> 
+<!-- typescript -->
+<a href="https://www.typescriptlang.org/">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="auto" height="auto">
 </a>
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+<!-- javascript -->
+<a href="https://www.javascript.com/">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="auto" height="auto">
 </a>
-<a href="https://expressjs.com/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/> 
+<!-- html -->
+<a href="https://www.w3.org/html/">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="auto" height="auto">
 </a>
-<a href="https://code.visualstudio.com/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+<!-- css -->
+<a href="https://www.w3schools.com/css/">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="auto" height="auto">
 </a>
-<a href="https://www.php.net/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> 
+<!-- python -->
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="auto" height="auto">
 </a>
-<a href="https://www.python.org/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<!-- mysql -->
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="auto" height="auto">
 </a>
-<a href="https://nodejs.org/en/" target="_blank"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+<!-- git -->
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="auto" height="auto">
 </a>
-<a href="https://www.figma.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
+<!-- figma -->
+<a href="https://www.figma.com/">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="auto" height="auto">
 </a>
-<a href="https://postman.com/" target="_blank"> 
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="postman" width="40" height="40"/> 
+<!-- postman -->
+<a href="https://www.postman.com/">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" width="auto" height="auto">
 </a>
-</p> -->
+<!-- heroku -->
+<a href="https://www.heroku.com/">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" width="auto" height="auto">
+</a>
+<!-- vite -->
+<a href="https://vitejs.dev/">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" width="auto" height="auto">
+</a>
+<!-- tailwind -->
+<a href="https://tailwindcss.com/">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="auto" height="auto">
+</a>
+<!-- bootstrap -->
+<a href="https://getbootstrap.com/">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="auto" height="auto">
+</a>
+<!-- material ui -->
+<a href="https://material-ui.com/">
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" width="auto" height="auto">
+</a>
+<!-- ant design -->
+<a href="https://ant.design/">
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design" width="auto" height="auto">
+</a>
+<!-- php -->
+<a href="https://www.php.net/">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" width="auto" height="auto">
+</a>
+<!-- firebase -->
+<a href="https://firebase.google.com/">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" width="auto" height="auto">
+</a>
+<!-- expressjs -->
+<a href="https://expressjs.com/">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" width="auto" height="auto">
+</a>
+<!-- socket io -->
+<a href="https://socket.io/">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" width="auto" height="auto">
+</a>
+  </samp>
+</p>
+
 <h3 align="left">Find me at:</h3>
 <p align="left">
   <samp>
-    <a href="https://twitter.com/_vaibhava__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_vaibhava__" height="30" width="40" /></a> . 
-    <a href="https://www.linkedin.com/in/vaibhava17/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav98a" height="30" width="40" /></a> . 
-    <a href="https://dev.to/vaibhava17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaibhava17" height="30" width="40" /></a> . 
-<!--     <a href="https://codepen.io/vaibhava17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vaibhava17" height="30" width="40" /></a> -->
-  </samp>
+  <!-- twitter -->
+  <a href="https://twitter.com/_vaibhava__">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="auto" height="auto">
+  </a>
+  <!-- linkedin -->
+  <a href="https://www.linkedin.com/in/vaibhava17/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="auto" height="auto">
+  </a>
+  <!-- devto -->
+  <a href="https://dev.to/vaibhava17">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.TO" width="auto" height="auto">
+  </a>
+</samp>
 </p>
 
 [![@vaibhava17's Holopin board](https://holopin.me/vaibhava17)](https://holopin.io/@vaibhava17)
