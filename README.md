@@ -18,7 +18,7 @@ This year, I completed my graduation in Computer Science Engineering (B.Tech). I
   <li> 📝 &nbsp; My <a href="https://github.com/vaibhava17/vaibhava17/blob/main/resume%20200kb.pdf" target="_blank">Resume</a>.</li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -38,21 +38,21 @@ This year, I completed my graduation in Computer Science Engineering (B.Tech). I
 <a href="https://reactjs.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a> 
-<!-- <a href="https://heroku.com/" target="_blank"> 
+<a href="https://heroku.com/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> 
-</a> -->
+</a>
 <a href="https://git-scm.com/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 </a>
 <a href="https://expressjs.com/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/> 
 </a>
-<!-- <a href="https://code.visualstudio.com/" target="_blank"> 
+<a href="https://code.visualstudio.com/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-</a> -->
-<!-- <a href="https://www.php.net/" target="_blank"> 
+</a>
+<a href="https://www.php.net/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> 
-</a> -->
+</a>
 <a href="https://www.python.org/" target="_blank"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
@@ -65,7 +65,7 @@ This year, I completed my graduation in Computer Science Engineering (B.Tech). I
 <a href="https://postman.com/" target="_blank"> 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="postman" width="40" height="40"/> 
 </a>
-</p>
+</p> -->
 <h3 align="left">Find me at:</h3>
 <p align="left">
   <samp>
@@ -78,7 +78,7 @@ This year, I completed my graduation in Computer Science Engineering (B.Tech). I
 
 [![@vaibhava17's Holopin board](https://holopin.me/vaibhava17)](https://holopin.io/@vaibhava17)
 
-![Vaibhav's Github Stats](https://github-readme-stats.vercel.app/api?username=vaibhava17&show_icons=true) 
+<!--![Vaibhav's Github Stats](https://github-readme-stats.vercel.app/api?username=vaibhava17&show_icons=true) -->
 
 <!--START_SECTION:waka-->
 
