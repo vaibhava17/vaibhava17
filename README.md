@@ -137,13 +137,13 @@ This year, I completed my graduation in Computer Science Engineering (B.Tech). I
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 October 2021 - To: 19 December 2022
+From: 07 October 2021 - To: 20 December 2022
 
-Total Time: 1,830 hrs 14 mins
+Total Time: 1,832 hrs 59 mins
 
-JavaScript       1,226 hrs 34 mins>>>>>>>>>>>>>>>>>--------   67.02 %
-CSS              170 hrs 40 mins >>-----------------------   09.33 %
-Other            170 hrs 15 mins >>-----------------------   09.30 %
+JavaScript       1,228 hrs 50 mins>>>>>>>>>>>>>>>>>--------   67.04 %
+CSS              170 hrs 41 mins >>-----------------------   09.31 %
+Other            170 hrs 16 mins >>-----------------------   09.29 %
 ```
 
 <!--END_SECTION:waka-->
