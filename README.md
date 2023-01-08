@@ -1,136 +1,21 @@
-<h1 align="center">Hi 👋
-<br/>
- I'm Vaibhav Agarwal</h1>
- <p align="center">I have been working as a front-end engineer in <a href="https://gunisms.com.au" target="_blank">Guni</a> and contributing to some open-source projects.
-This year, I completed my graduation in Computer Science Engineering (B.Tech). I'm improving my skills to create beautifully smooth animations and responsive front-end web design and learning to develop scalable backend servers for applications. I am also learning the clean code way and TDD way of coding.</p>
+# 💫 About Me:
+🛠   Building apps with MERN STACK.<br>🚀   Learning about Clean code techniques and TDT.<br>👯   Open to contribute on any project or articles.<br>📫   You can reach me <a href="mailto:vaibhav@guni.au" target="_blank">here</a>.<br>📝   You can download my resume from <a href="https://github.com/vaibhava17/vaibhava17/blob/main/resume.pdf" target="_blank">here</a>.
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=maithrivh&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhava17" /> 
-<a href="https://wakatime.com/@cab027d5-8b43-4899-8312-4f5dd5018bc9"><img src="https://wakatime.com/badge/user/cab027d5-8b43-4899-8312-4f5dd5018bc9.svg" alt="Total time coded since Oct 8 2021" /></a>
-</p>
 
-<h3 align="left"><a href="https://vaibhava17.github.io" target="_blank">vaibhavag.me</a></h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhava17) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_vaibhava__) [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=Dev.to&logoColor=white)](https://dev.to/vaibhava17) 
 
-<ul>
-  <li> 🛠 &nbsp; Building apps with MERN STACK.</li>
-  <li> 🚀 &nbsp; Learning about Clean code techniques and TDT.</li>
-  <li> 👯 &nbsp; Open to contribute on any project or articles.</li>  
-  <li> 📫 &nbsp; You can reach me <a href="mailto:vaibhav@guni.au" target="_blank">here</a>.</li>
-  <li> 📝 &nbsp; You can download my <a href="https://github.com/vaibhava17/vaibhava17/blob/main/resume.pdf" target="_blank">resume</a> from here.</li>
-</ul>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=flat&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=flat&logo=pug&logoColor=A86454) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vaibhava17&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhava17&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhava17&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Things I'm good at:</h3>
-<p align="left">
-  <samp>
-<!-- nodejs -->
-<a href="https://nodejs.org/en/">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="auto" height="auto"> 
-</a>
-<!-- react -->
-<a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width="auto" height="auto">
-</a>
-<!-- mongodb -->
-<a href="https://www.mongodb.com/">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="auto" height="auto">
-</a>
-<!-- typescript -->
-<a href="https://www.typescriptlang.org/">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="auto" height="auto">
-</a>
-<!-- javascript -->
-<a href="https://www.javascript.com/">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="auto" height="auto">
-</a>
-<!-- html -->
-<a href="https://www.w3.org/html/">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="auto" height="auto">
-</a>
-<!-- css -->
-<a href="https://www.w3schools.com/css/">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="auto" height="auto">
-</a>
-<!-- python -->
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="auto" height="auto">
-</a>
-<!-- mysql -->
-<a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="auto" height="auto">
-</a>
-<!-- git -->
-<a href="https://git-scm.com/">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="auto" height="auto">
-</a>
-<!-- figma -->
-<a href="https://www.figma.com/">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="auto" height="auto">
-</a>
-<!-- postman -->
-<a href="https://www.postman.com/">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" width="auto" height="auto">
-</a>
-<!-- heroku -->
-<a href="https://www.heroku.com/">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" width="auto" height="auto">
-</a>
-<!-- vite -->
-<a href="https://vitejs.dev/">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" width="auto" height="auto">
-</a>
-<!-- tailwind -->
-<a href="https://tailwindcss.com/">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="auto" height="auto">
-</a>
-<!-- bootstrap -->
-<a href="https://getbootstrap.com/">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="auto" height="auto">
-</a>
-<!-- material ui -->
-<a href="https://material-ui.com/">
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" width="auto" height="auto">
-</a>
-<!-- ant design -->
-<a href="https://ant.design/">
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design" width="auto" height="auto">
-</a>
-<!-- php -->
-<a href="https://www.php.net/">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" width="auto" height="auto">
-</a>
-<!-- firebase -->
-<a href="https://firebase.google.com/">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" width="auto" height="auto">
-</a>
-<!-- expressjs -->
-<a href="https://expressjs.com/">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" width="auto" height="auto">
-</a>
-<!-- socket io -->
-<a href="https://socket.io/">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" width="auto" height="auto">
-</a>
-  </samp>
-</p>
-
-<h3 align="left">Find me at:</h3>
-<p align="left">
-  <samp>
-  <!-- twitter -->
-  <a href="https://twitter.com/_vaibhava__">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="auto" height="auto">
-  </a>
-  <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/vaibhava17/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="auto" height="auto">
-  </a>
-  <!-- devto -->
-  <a href="https://dev.to/vaibhava17">
-    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.TO" width="auto" height="auto">
-  </a>
-</samp>
-</p>
-
+# 🦖 Holopin Board:
 [![@vaibhava17's Holopin board](https://holopin.me/vaibhava17)](https://holopin.io/@vaibhava17)
+
+# 📚 Wakatime Stats:
 
 <!--![Vaibhav's Github Stats](https://github-readme-stats.vercel.app/api?username=vaibhava17&show_icons=true) -->
 
@@ -147,3 +32,5 @@ Other            172 hrs 20 mins >>-----------------------   09.09 %
 ```
 
 <!--END_SECTION:waka-->
+---
+[![](https://visitcount.itsvg.in/api?id=vaibhava17&icon=9&color=0)](https://visitcount.itsvg.in)
