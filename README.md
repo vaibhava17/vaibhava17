@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2021 - To: 19 June 2023
+From: 07 October 2021 - To: 20 June 2023
 
-Total Time: 2,271 hrs 39 mins
+Total Time: 2,273 hrs 57 mins
 
-JavaScript       1,490 hrs 18 mins>>>>>>>>>>>>>>>>---------   65.60 %
-CSS              212 hrs 13 mins >>-----------------------   09.34 %
-Other            192 hrs 17 mins >>-----------------------   08.47 %
+JavaScript       1,492 hrs 34 mins>>>>>>>>>>>>>>>>---------   65.64 %
+CSS              212 hrs 13 mins >>-----------------------   09.33 %
+Other            192 hrs 17 mins >>-----------------------   08.46 %
 PHP              118 hrs 21 mins >------------------------   05.21 %
-HTML             83 hrs 46 mins  >------------------------   03.69 %
+HTML             83 hrs 46 mins  >------------------------   03.68 %
 ```
 
 <!--END_SECTION:waka-->
