@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠   Building apps with MERN STACK.<br>🚀   Learning about Clean code techniques and TDT.<br>👯   Open to contribute on any project or articles.<br>📫   You can reach me <a href="mailto:vaibhav@guni.au" target="_blank">here</a>.<br>📝   You can download my resume from <a href="https://github.com/vaibhava17/vaibhava17/blob/main/resume.pdf" target="_blank">here</a>.
+🛠   Works mostly on React.<br>🚀   Clean code is my thing.<br>👯   Open Source is good for skill development.<br>📫   Wanna talk? Send a <a href="mailto:iamvaibhav.agarwal@gmail.com" target="_blank">mail</a>.<br>📝   Check my <a href="https://vaibhava17.github.io" target="_blank">Portfolio</a> site.
 
 
 ## 🌐 Socials:
