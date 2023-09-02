@@ -13,8 +13,17 @@ I'm a passionate Software Engineer based in India 🇮🇳. Welcome to my GitHub
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vaibhava17)
 - Twitter: [Twitter Profile](https://twitter.com/heyvybav)
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+# 💻 Tech Stack
+
+I'm well-versed in a variety of technologies, including:
+
+- **Languages:** Javascript, HTML5, CSS3, SASS, Node.js
+- **Frameworks:** Next.js, Express, Reactjs,
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, VS Code, Postman
+- **Cloud:** AWS, Heroku, Digital Ocean
+
+<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
@@ -28,17 +37,17 @@ I'm a passionate Software Engineer based in India 🇮🇳. Welcome to my GitHub
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) -->
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vaibhava17&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhava17&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhava17&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🦖 Holopin Board:
+## 🦖 Holopin Board
 [![@vaibhava17's Holopin board](https://holopin.me/vaibhava17)](https://holopin.io/@vaibhava17)
 
-# 📚 Wakatime Stats:
+## 📚 Wakatime Stats
 
 <!--![Vaibhav's Github Stats](https://github-readme-stats.vercel.app/api?username=vaibhava17&show_icons=true) -->
 
