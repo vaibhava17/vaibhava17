@@ -17,7 +17,7 @@ I'm a passionate Software Engineer based in India 🇮🇳. Welcome to my GitHub
 
 I'm well-versed in a variety of technologies, including:
 
-- **Languages:** Javascript, HTML5, CSS3, SASS, Node.js
+- **Languages:** Javascript, HTML5, CSS3, SASS, Node.js, TypeScript
 - **Frameworks:** Next.js, Express, Reactjs,
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, VS Code, Postman
