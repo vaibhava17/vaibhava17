@@ -54,14 +54,14 @@ I'm well-versed in a variety of technologies, including:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2021 - To: 21 November 2023
+From: 07 October 2021 - To: 23 November 2023
 
-Total Time: 2,751 hrs 3 mins
+Total Time: 2,757 hrs 46 mins
 
-JavaScript        1,706 hrs 30 mins>>>>>>>>>>>>>>>>---------   62.03 %
-Other             398 hrs 47 mins >>>>---------------------   14.50 %
-CSS               221 hrs 43 mins >>-----------------------   08.06 %
-PHP               122 hrs 8 mins  >------------------------   04.44 %
+JavaScript        1,712 hrs 3 mins>>>>>>>>>>>>>>>>---------   62.08 %
+Other             398 hrs 47 mins >>>>---------------------   14.46 %
+CSS               222 hrs 39 mins >>-----------------------   08.07 %
+PHP               122 hrs 8 mins  >------------------------   04.43 %
 JSX               82 hrs 20 mins  >------------------------   02.99 %
 ```
 
