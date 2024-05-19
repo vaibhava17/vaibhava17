@@ -54,7 +54,7 @@ I'm well-versed in a variety of technologies, including:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2021 - To: 16 May 2024
+From: 07 October 2021 - To: 17 May 2024
 
 Total Time: 3,084 hrs 22 mins
 
