@@ -1,18 +1,19 @@
-# Hello, I'm Vaibhav! 👋
+```json
 
-I'm a passionate Software Engineer based in India 🇮🇳. Welcome to my GitHub profile! Here, you'll find a mix of my personal projects, contributions to open-source, and my journey in the world of coding.
+{
+  "about": "Hi 👋, I'm Vaibhav Agarwal, working as Software Engineer @ TalentXO ",
+  "life": "A passionate Developer. from India",
+  "Working_on": "Passing Knowledge to Others.",
+  "looking_for": "Learning New Technologies & Integrating with Cloud Computing",
+  "find_me_with": "iamvaibhav.agarwal@gmail.com",
+}
+``` 
 
-## 💫 About Me
+[![Linkedin](https://img.shields.io/badge/Vaibhav-005E93?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhava17)
+[![X](https://img.shields.io/badge/heyvybav-000000?style=for-the-badge&logo=x&logoColor=white)](http://twitter.com/heyvybav)
+[![Portofolio](https://img.shields.io/badge/Portofolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhava17.github.io)
 
-- 💻 I'm dedicated to coding and always eager to learn and grow.
-- 🌟 I love exploring new technologies and solving challenging problems.
-- 📚 Currently working towards becoming a Software Development Engineer (SDE) at Meta.
-
-## 🌐 Connect with Me
-
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/vaibhava17)
-- Twitter: [Twitter Profile](https://twitter.com/heyvybav)
-
+<!-- 
 # 💻 Tech Stack
 
 I'm well-versed in a variety of technologies, including:
@@ -39,7 +40,7 @@ I'm well-versed in a variety of technologies, including:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) -->
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=vaibhava17&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhava17&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhava17&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -52,7 +53,7 @@ I'm well-versed in a variety of technologies, including:
 <!--![Vaibhav's Github Stats](https://github-readme-stats.vercel.app/api?username=vaibhava17&show_icons=true) -->
 
 <!--START_SECTION:waka-->
-
+<!-- 
 ```txt
 From: 07 October 2021 - To: 19 June 2024
 
@@ -66,5 +67,9 @@ PHP               141 hrs 29 mins >------------------------   04.49 %
 ```
 
 <!--END_SECTION:waka-->
+
+<!-- 
 ---
 [![](https://visitcount.itsvg.in/api?id=vaibhava17&icon=9&color=0)](https://visitcount.itsvg.in)
+
+-->
