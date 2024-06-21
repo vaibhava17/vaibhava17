@@ -11,7 +11,7 @@
 
 [![Linkedin](https://img.shields.io/badge/Vaibhav-005E93?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhava17)
 [![X](https://img.shields.io/badge/heyvybav-000000?style=for-the-badge&logo=x&logoColor=white)](http://twitter.com/heyvybav)
-[![Portofolio](https://img.shields.io/badge/Portofolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhava17.github.io)
+[![Portofolio](https://img.shields.io/badge/Portofolio-333333?style=for-the-badge&logo=github&logoColor=white)](https://vaibhava17.github.io)
 
 <!-- 
 # 💻 Tech Stack
