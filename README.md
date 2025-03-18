@@ -1,12 +1,13 @@
 ```json
 
 {
-  "about": "Hi 👋, I'm Vaibhav Agarwal, working as Software Engineer @ TalentXO ",
-  "life": "A passionate Developer. from India",
-  "Working_on": "Passing Knowledge to Others.",
-  "looking_for": "Learning New Technologies & Integrating with Cloud Computing",
-  "find_me_with": "iamvaibhav.agarwal@gmail.com",
+  "about": "Hi 👋, I'm Vaibhav Agarwal, working as a Software Development Engineer 2 at Solfin.",
+  "life": "A passionate developer from India.",
+  "working_on": "Building a fintech portal to streamline financial operations and enhance user experience.",
+  "looking_for": "Contributing to open-source projects or maintaining existing ones.",
+  "find_me_at": "iamvaibhav.agarwal@gmail.com"
 }
+
 ``` 
 
 [![Linkedin](https://img.shields.io/badge/Vaibhav-005E93?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhava17)
