@@ -55,7 +55,7 @@ I'm well-versed in a variety of technologies, including:
 
 <!--START_SECTION:waka-->
 
-```txt
+<!--```txt
 From: 07 October 2021 - To: 19 March 2025
 
 Total Time: 3,927 hrs 16 mins
@@ -65,7 +65,7 @@ Other              616 hrs 56 mins >>>>---------------------   15.71 %
 Python             316 hrs 13 mins >>-----------------------   08.05 %
 CSS                253 hrs 39 mins >>-----------------------   06.46 %
 PHP                152 hrs 50 mins >------------------------   03.89 %
-```
+```-->
 
 <!--END_SECTION:waka-->
 
