@@ -1,53 +1,70 @@
-# Hi, I'm Vaibhav Agarwal 👋
+<div align="center">
 
-### Full-Stack & Applied AI Systems Engineer
-**Software Development Engineer II @ [Solfin](https://solfin.co.in) &nbsp;·&nbsp; Builder of [Hortiprise](https://hortiprise.com)**
+# Vaibhav Agarwal
 
-I build production SaaS, autonomous AI workflows, and developer tooling that solve real problems — not demos.
+**Full-Stack & Applied AI Systems Engineer**  
+Software Development Engineer II @ **[Solfin](https://solfin.co.in)** &nbsp;·&nbsp; Builder of **[Hortiprise](https://hortiprise.com)**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vaibhava17.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhava17.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhava17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhava17)
-[![GitHub](https://img.shields.io/badge/GitHub-vaibhava17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhava17)
-[![Email](https://img.shields.io/badge/Email-iamvaibhav.agarwal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamvaibhav.agarwal@gmail.com)
+Gurugram / Delhi NCR, India
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-vaibhava17.github.io-10141f?style=flat-square&logo=vercel&logoColor=white)](https://vaibhava17.github.io)
+[![Resume](https://img.shields.io/badge/Resume-PDF_Download-e8a33d?style=flat-square&logo=adobeacrobatreader&logoColor=black)](./Vaibhav-Agarwal-Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhava17-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhava17)
+[![Email](https://img.shields.io/badge/Email-iamvaibhav.agarwal%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iamvaibhav.agarwal@gmail.com)
+
+<br />
+
+</div>
+
+> I design, ship, and scale production SaaS platforms, autonomous AI agent workflows, and developer tooling that solve real operational problems — not demos.
 
 ---
 
-### ⚡ What I Do
+### ⚡ What I'm Building
 
-- 🏢 **SDE II @ Solfin:** Architecting loan journeys (Commercial & Industrial + Supply Chain Finance) in Next.js/React and building a high-throughput AI document intelligence microservice (FastAPI + Qdrant + Bedrock/Gemini/OpenAI) serving 8k–10k weekly calls at <1% failure rate while slashing latency from **20s → 7s** and raising bill extraction accuracy from **70% → 90%**.
-- 🌱 **Lead Engineer @ Hortiprise:** Building an end-to-end nursery SaaS digitizing plant batches, quotes, billing, and dispatch with multimodal document OCR (Google Cloud Vision + Tesseract + LLMs), conversational WhatsApp ordering, and a custom NMS monitoring GCP VMs, Docker, and Qdrant.
-- 🛠️ **Developer Tooling & Local AI:** Author of **DiffCommit AI** (published VS Code extension across 9 AI providers) and **Syntra** (local-first RAG with git-diff incremental SHA indexing).
+- **Production FinTech & GenAI @ [Solfin](https://solfin.co.in)** *(SDE II, Jan 2025 – Present)*
+  - Architected and owned the frontend for Commercial & Industrial (CNI) and Supply Chain Finance (SCF) solar financing journeys in Next.js, React, and TypeScript.
+  - Engineered an enterprise AI document intelligence microservice (FastAPI + Qdrant + Bedrock/Gemini/OpenAI) with a structured RAG pipeline, raising bill extraction accuracy from **70% → 90%**.
+  - Optimized LLM inference pipelines, reducing latency from **20s → 7s** while handling **8,000–10,000 weekly calls** at **<1% failure rate**.
+  - Built a resource-aware data warehouse job scheduler and an automated Tech-Ops triage platform routing WhatsApp & Gmail tickets to Sales.
+
+- **Vertical SaaS @ [Hortiprise](https://hortiprise.com)** *(Lead Engineer, 2025 – Present)*
+  - Built an end-to-end nursery management SaaS digitizing inventory, seed germination batches, quotations, billing, and dispatch.
+  - Engineered a multimodal OCR pipeline (Google Cloud Vision + Tesseract + LLMs) extracting structured data from messy physical invoices.
+  - Integrated interactive WhatsApp Business API workflows for ordering and dispatch confirmations without requiring an app install.
+  - Built custom NMS infrastructure monitoring watching GCP VMs, Docker containers, MySQL, and Qdrant to eliminate downtime; automated ~50% of manual operations.
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Featured Work
 
-| Project | Description | Stack |
+| Project | What It Is | Architecture & Stack |
 | :--- | :--- | :--- |
-| [**DiffCommit AI**](https://marketplace.visualstudio.com/items?itemName=vaibhava17.ai-commit-msg) | Published VS Code extension generating semantic git commit messages from staged diffs across 9 AI backends. Zero runtime deps, secure OS Keychain storage. | TypeScript, VS Code API, SecretStorage |
-| [**Syntra**](https://github.com/vaibhava17/syntra) | Privacy-first local codebase RAG assistant. Uses smart git-diff chunking and SHA caching to index codebases 90%+ faster without sending code to the cloud. | Python 3.13, Docker, Qdrant, Embeddings |
-| [**AI Investment Pipeline**](https://github.com/vaibhava17/task-assignment) | Deterministic 3-stage VC deal sourcing & evaluation engine with on-disk JSON checkpointing and immutable code scoring rubrics for zero-hallucination verdicts. | Python, LLMs, Pytest, JSON Caching |
-| [**Unit Atlas**](https://github.com/vaibhava17/unit-atlas) | High-precision engineering conversion platform & spatial API with strict schema validation, SlowAPI rate-limiting, and sub-millisecond calculation speeds. | FastAPI, Next.js 16, Jest, SlowAPI |
+| [**DiffCommit AI**](https://marketplace.visualstudio.com/items?itemName=vaibhava17.ai-commit-msg) | Published VS Code extension generating semantic git commit messages from staged diffs across 9 AI providers (Claude, OpenAI, Gemini, DeepSeek, Grok, Ollama). | TypeScript, VS Code Extension API, native SecretStorage |
+| [**Syntra**](https://github.com/vaibhava17/syntra) | Local-first, privacy-preserving codebase RAG assistant. Indexes code repositories using smart git-diff chunking and SHA hashing to cut re-embedding compute by 90%+. | Python 3.13, Docker, Qdrant, Local Embeddings |
+| [**Unit Atlas**](https://github.com/vaibhava17/unit-atlas) | High-precision engineering conversion platform and spatial API with strict schema validation, SlowAPI rate-limiting, and Jest pre-build test gates. | FastAPI, Next.js 16, TypeScript, Jest, Tailwind CSS |
+| [**AI Investment Pipeline**](https://github.com/vaibhava17/task-assignment) | Deterministic 3-stage VC deal sourcing & evaluation engine with on-disk JSON checkpointing for replayability and immutable code rubrics for defensible verdicts. | Python, Multi-LLM Scoring, Pytest, JSON Cache |
 
 ---
 
-### 💻 Technical Arsenal
+### 💻 Technical Stack
 
-- **AI & Agents:** Multi-Provider LLM Routing (AWS Bedrock, Google Gemini, OpenAI), Structured RAG, Qdrant (Vector Search), Multimodal Vision & OCR (Google Cloud Vision, Tesseract), Autonomous Testing Agents (Appium), Pydantic v2.
-- **Backend & Systems:** Python (FastAPI, Asyncio, Pytest), TypeScript, Node.js, PostgreSQL, MySQL (Aiven), MongoDB, Redis, Apache Solr (Search & Indexing), Prisma ORM, Resource-Aware Schedulers.
-- **Frontend & UI:** Next.js (App Router, Server Components), React 19, TypeScript, Tailwind CSS, Component Design Systems, Framer Motion.
-- **DevOps, Cloud & Infra:** Docker & Containerization, GCP (Compute Engine, Vision API), Linux/Systemd Administration, GitHub Actions CI/CD, Custom NMS Monitoring.
+- **AI & Agentic Systems:** Multi-Provider LLM Orchestration (AWS Bedrock, Google Gemini, OpenAI), Structured RAG, Qdrant (Vector DB), Multimodal Vision & OCR (Google Cloud Vision, Tesseract), Autonomous Testing Agents (Appium), Pydantic v2 Schemas, Prompt Injection Defense.
+- **Backend & Systems:** Python (FastAPI, Asyncio, Pytest), TypeScript / Node.js, Relational DBs (PostgreSQL, MySQL / Aiven), Apache Solr (Search & Indexing), Prisma ORM, MongoDB, Redis, Background ETL Schedulers.
+- **Frontend & UI:** Next.js (App Router, Server Components), React, TypeScript, Tailwind CSS, Component Design Systems, State Management & Optimistic UI, Framer Motion.
+- **Cloud & DevOps:** Docker, GCP (Compute Engine, Vision API), Linux/Systemd Administration, GitHub Actions CI/CD, Custom NMS Monitoring.
 
 ---
 
 ### 🎓 Education
 
-- **Indian Institute of Technology (IIT) Mandi** — Minor in Computer Science & Engineering (2024 – 2026) | *CGPA: 7.0 / 10*
-- **Shri Siddhi Vinayak Group of Institutions, Bareilly (AKTU Lucknow)** — B.Tech in Computer Science & Engineering (2019 – 2023) | *CGPA: 8.2 / 10*
+- **Indian Institute of Technology (IIT) Mandi** — Minor in Computer Science & Engineering *(2024 – 2026)* &nbsp;·&nbsp; `CGPA: 7.0 / 10`
+- **Shri Siddhi Vinayak Group of Institutions, Bareilly (AKTU Lucknow)** — B.Tech in CSE *(2019 – 2023)* &nbsp;·&nbsp; `CGPA: 8.2 / 10`
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=vaibhava17&show_icons=true&theme=tokyonight&hide_border=true" alt="Vaibhav's GitHub stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaibhava17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+<div align="center">
+  <sub>Built by <a href="https://vaibhava17.github.io">Vaibhav Agarwal</a> · Powered by <a href="https://github.com/vaibhava17">GitHub</a></sub>
+</div>
