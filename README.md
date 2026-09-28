@@ -48,6 +48,6 @@ I build production SaaS, autonomous AI workflows, and developer tooling that sol
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhava17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vaibhav's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhava17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vaibhava17&show_icons=true&theme=tokyonight&hide_border=true" alt="Vaibhav's GitHub stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaibhava17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
