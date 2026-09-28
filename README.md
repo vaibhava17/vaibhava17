@@ -1,76 +1,53 @@
-```json
+# Hi, I'm Vaibhav Agarwal 👋
 
-{
-  "about": "Hi 👋, I'm Vaibhav Agarwal, working as a Software Development Engineer 2 at Solfin.",
-  "life": "A passionate developer from India.",
-  "working_on": "Building a fintech portal to streamline financial operations and enhance user experience.",
-  "looking_for": "Contributing to open-source projects or maintaining existing ones.",
-  "find_me_at": "iamvaibhav.agarwal@gmail.com"
-}
+### Full-Stack & Applied AI Systems Engineer
+**Software Development Engineer II @ [Solfin](https://solfin.co.in) &nbsp;·&nbsp; Builder of [Hortiprise](https://hortiprise.com)**
 
-``` 
+I build production SaaS, autonomous AI workflows, and developer tooling that solve real problems — not demos.
 
-[![Linkedin](https://img.shields.io/badge/Vaibhav-005E93?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhava17)
-[![X](https://img.shields.io/badge/heyvybav-000000?style=for-the-badge&logo=x&logoColor=white)](http://twitter.com/heyvybav)
-[![Portofolio](https://img.shields.io/badge/Portofolio-333333?style=for-the-badge&logo=github&logoColor=white)](https://vaibhava17.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vaibhava17.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhava17.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhava17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhava17)
+[![GitHub](https://img.shields.io/badge/GitHub-vaibhava17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhava17)
+[![Email](https://img.shields.io/badge/Email-iamvaibhav.agarwal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamvaibhav.agarwal@gmail.com)
 
-<!-- 
-# 💻 Tech Stack
-
-I'm well-versed in a variety of technologies, including:
-
-- **Languages:** Javascript, HTML5, CSS3, SASS, Node.js, TypeScript
-- **Frameworks:** Next.js, Express, Reactjs,
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, VS Code, Postman
-- **Cloud:** AWS, Heroku, Digital Ocean
-
-<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) -->
-
-<!-- ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=vaibhava17&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhava17&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhava17&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🦖 Holopin Board
-[![@vaibhava17's Holopin board](https://holopin.me/vaibhava17)](https://holopin.io/@vaibhava17)
-
-## 📚 Wakatime Stats
-
-<!--![Vaibhav's Github Stats](https://github-readme-stats.vercel.app/api?username=vaibhava17&show_icons=true) -->
-
-<!--START_SECTION:waka-->
-
-<!--```txt
-From: 07 October 2021 - To: 19 March 2025
-
-Total Time: 3,927 hrs 16 mins
-
-JavaScript         2,121 hrs 5 mins>>>>>>>>>>>>>>-----------   54.01 %
-Other              616 hrs 56 mins >>>>---------------------   15.71 %
-Python             316 hrs 13 mins >>-----------------------   08.05 %
-CSS                253 hrs 39 mins >>-----------------------   06.46 %
-PHP                152 hrs 50 mins >------------------------   03.89 %
-```-->
-
-<!--END_SECTION:waka-->
-
-<!-- 
 ---
-[![](https://visitcount.itsvg.in/api?id=vaibhava17&icon=9&color=0)](https://visitcount.itsvg.in)
 
--->
+### ⚡ What I Do
+
+- 🏢 **SDE II @ Solfin:** Architecting loan journeys (Commercial & Industrial + Supply Chain Finance) in Next.js/React and building a high-throughput AI document intelligence microservice (FastAPI + Qdrant + Bedrock/Gemini/OpenAI) serving 8k–10k weekly calls at <1% failure rate while slashing latency from **20s → 7s** and raising bill extraction accuracy from **70% → 90%**.
+- 🌱 **Lead Engineer @ Hortiprise:** Building an end-to-end nursery SaaS digitizing plant batches, quotes, billing, and dispatch with multimodal document OCR (Google Cloud Vision + Tesseract + LLMs), conversational WhatsApp ordering, and a custom NMS monitoring GCP VMs, Docker, and Qdrant.
+- 🛠️ **Developer Tooling & Local AI:** Author of **DiffCommit AI** (published VS Code extension across 9 AI providers) and **Syntra** (local-first RAG with git-diff incremental SHA indexing).
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**DiffCommit AI**](https://marketplace.visualstudio.com/items?itemName=vaibhava17.ai-commit-msg) | Published VS Code extension generating semantic git commit messages from staged diffs across 9 AI backends. Zero runtime deps, secure OS Keychain storage. | TypeScript, VS Code API, SecretStorage |
+| [**Syntra**](https://github.com/vaibhava17/syntra) | Privacy-first local codebase RAG assistant. Uses smart git-diff chunking and SHA caching to index codebases 90%+ faster without sending code to the cloud. | Python 3.13, Docker, Qdrant, Embeddings |
+| [**AI Investment Pipeline**](https://github.com/vaibhava17/task-assignment) | Deterministic 3-stage VC deal sourcing & evaluation engine with on-disk JSON checkpointing and immutable code scoring rubrics for zero-hallucination verdicts. | Python, LLMs, Pytest, JSON Caching |
+| [**Unit Atlas**](https://github.com/vaibhava17/unit-atlas) | High-precision engineering conversion platform & spatial API with strict schema validation, SlowAPI rate-limiting, and sub-millisecond calculation speeds. | FastAPI, Next.js 16, Jest, SlowAPI |
+
+---
+
+### 💻 Technical Arsenal
+
+- **AI & Agents:** Multi-Provider LLM Routing (AWS Bedrock, Google Gemini, OpenAI), Structured RAG, Qdrant (Vector Search), Multimodal Vision & OCR (Google Cloud Vision, Tesseract), Autonomous Testing Agents (Appium), Pydantic v2.
+- **Backend & Systems:** Python (FastAPI, Asyncio, Pytest), TypeScript, Node.js, PostgreSQL, MySQL (Aiven), MongoDB, Redis, Apache Solr (Search & Indexing), Prisma ORM, Resource-Aware Schedulers.
+- **Frontend & UI:** Next.js (App Router, Server Components), React 19, TypeScript, Tailwind CSS, Component Design Systems, Framer Motion.
+- **DevOps, Cloud & Infra:** Docker & Containerization, GCP (Compute Engine, Vision API), Linux/Systemd Administration, GitHub Actions CI/CD, Custom NMS Monitoring.
+
+---
+
+### 🎓 Education
+
+- **Indian Institute of Technology (IIT) Mandi** — Minor in Computer Science & Engineering (2024 – 2026) | *CGPA: 7.0 / 10*
+- **Shri Siddhi Vinayak Group of Institutions, Bareilly (AKTU Lucknow)** — B.Tech in Computer Science & Engineering (2019 – 2023) | *CGPA: 8.2 / 10*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhava17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vaibhav's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhava17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
