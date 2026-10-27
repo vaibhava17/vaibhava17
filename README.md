@@ -24,7 +24,7 @@ Gurugram / Delhi NCR, India
 
 ### ⚡ What I'm Building
 
-- **Production FinTech & GenAI @ [Solfin](https://solfin.co.in)** *(SDE II, Jan 2025 – Present)*
+- **Production FinTech & GenAI @ [Solfin](https://solfin.co.in)** *(AI Lead, Jan 2025 – Present)*
   - Architected and owned the frontend for Commercial & Industrial (CNI) and Supply Chain Finance (SCF) solar financing journeys in Next.js, React, and TypeScript.
   - Engineered an enterprise AI document intelligence microservice (FastAPI + Qdrant + Bedrock/Gemini/OpenAI) with a structured RAG pipeline, raising bill extraction accuracy from **70% → 90%**.
   - Optimized LLM inference pipelines, reducing latency from **20s → 7s** while handling **8,000–10,000 weekly calls** at **<1% failure rate**.
