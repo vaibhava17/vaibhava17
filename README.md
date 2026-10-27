@@ -3,7 +3,7 @@
 # Vaibhav Agarwal
 
 **Full-Stack & Applied AI Systems Engineer**  
-Software Development Engineer II @ **[Solfin](https://solfin.co.in)** &nbsp;·&nbsp; Builder of **[Hortiprise](https://hortiprise.com)**
+AI Lead @ **[Solfin](https://solfin.co.in)** &nbsp;·&nbsp; Builder of **[Hortiprise](https://hortiprise.com)**
 
 Gurugram / Delhi NCR, India
 
